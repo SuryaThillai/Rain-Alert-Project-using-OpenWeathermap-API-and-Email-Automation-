@@ -1,7 +1,7 @@
 import requests
 
 
-API_KEY = "7a4964cce9d6a994ca87d92bdfc214ab"
+API_KEY = f"{Your_Api_key}"
 
 ONE_CALL_API_ED = "https://api.openweathermap.org/data/2.5/onecall"
 
